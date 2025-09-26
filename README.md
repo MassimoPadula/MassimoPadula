@@ -13,18 +13,6 @@
 - 📫 How to reach me: [padmass2006@gmail.com](mailto:padmass2006@gmail.com)
 - 😄 Pronouns: He/Him
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MassimoPadula&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MassimoPadula&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MassimoPadula&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ## 🛠️ Tech Stack
 
 ### Languages
